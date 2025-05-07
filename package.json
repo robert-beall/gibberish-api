@@ -13,7 +13,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "run": "node dist/app.js",
-    "dev": "nodemon src/app.ts"
+    "run": "node dist/index.js",
+    "dev": "nodemon src/index.ts"
   }
 }
